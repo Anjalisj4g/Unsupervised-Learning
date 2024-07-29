@@ -17,11 +17,11 @@ Performed basic EDA using functions like info(), describe(), columns, head() etc
 
 Renamed columns
 
-# Dataset represented using scatter plot
+* Dataset represented using scatter plot
 
 To understand the distribution of the data, scatter polt is drawn.
 
-# Feature Scaling 
+* Feature Scaling 
 
 Features in a dataset can have different units and scales. Scaling ensures that all features contribute equally to the clustering process.
 
